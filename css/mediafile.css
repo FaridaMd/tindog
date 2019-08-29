@@ -1,0 +1,12 @@
+@media (max-width:770px) {
+  .iphone{
+    position: static;
+    transform: rotate(0);
+  }
+  /* body{
+    text-align: center;
+  } */
+  .data{
+    text-align:center;
+  }
+}
